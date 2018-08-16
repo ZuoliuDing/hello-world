@@ -1,8 +1,10 @@
 # hello-world
 Just test
 
-The first and second text file
+The first or second text file
 
-My additional line
+My new additional line
 
-I am in readme-edits and added this now
+I am in readme-edits2 and added this now
+
+Added more 

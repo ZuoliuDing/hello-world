@@ -1,7 +1,7 @@
 # hello-world
 Just test
 
-The first and second text file
+The first or second text file
 
 My new additional line
 
